@@ -221,8 +221,8 @@ exports.sewabot = (pushname, ownerName) => {
 
 *Harga Sewa*
 7 Hari = 5.000
-30 Hari = 15.000
-Permanen = 25.000
+30 Hari = 10.000
+Permanen = 20.000
 
 *Keuntungan :*
 - Bot Masuk Sesuai Waktu Sewa
